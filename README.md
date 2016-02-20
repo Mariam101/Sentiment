@@ -6,7 +6,7 @@ New members should make sure to glance over the "quickstart" notes at the bottom
 
 ## Members: (Feel free to add your name)
 
-Dax Gerts
+Dax Gerts, Mariam Fawaz
 
 ## Projects & Files
 
